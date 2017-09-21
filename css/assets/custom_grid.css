@@ -1,0 +1,28 @@
+/* PUT FLUID GRID CODE HERE */
+
+nav {
+  float:right;
+}
+header > img {
+  float:left;
+}
+
+.clearfix:after {
+  content:"";
+  display: block;
+  clear:both;
+}
+
+aside {
+  float: left;
+  box-sizing: border-box;
+}
+
+.main {
+  float: left;
+  box-sizing: border-box;
+}
+
+#review {
+  clear: both;
+}
